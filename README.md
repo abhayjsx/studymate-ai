@@ -79,7 +79,7 @@ StudyMate AI automates all of this in seconds, giving them more time to actually
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/studymate-ai.git
+git clone https://github.com/abhayjsx/studymate-ai.git
 cd studymate-ai
 
 # Install dependencies
